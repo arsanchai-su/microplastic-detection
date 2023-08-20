@@ -9,12 +9,8 @@ Before using model must be install library.
 ```
 pip install ultralytics
 ```
-<br />
-<br />
-You can acess and download our model at link below. 
+You can acess and download our model at link below.
 ```
 https://drive.google.com/file/d/1BYL4DpHEJiMvSMfrLL_0S1VcbEUrgVdS
 ```
-<br />
-<br />
 You can also see our example code for inferance model at `example.ipynb` in this github. 
